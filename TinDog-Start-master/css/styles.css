@@ -164,6 +164,7 @@ p {
 
 .social-icon {
   margin: 20px 10px;
+  color: black;
 }
 
 @media (max-width: 1028px) {
@@ -178,6 +179,3 @@ p {
   }
 }
 
-.footer-link{
-  color: Black;
-}
